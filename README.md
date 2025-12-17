@@ -4,8 +4,6 @@
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://god.postman.co/run-collection/e72d4e8b2ab6213fec78?action=collection%2Fimport)
 
-Assignment Two
-Purpose
 The purpose of this assignment is to start working with Node.js and become more familiar with
 HTTP requests.
 
